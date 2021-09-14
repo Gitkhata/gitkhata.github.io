@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>अफिस प्याकेज on कम्पुटर पाठशाला</title>
+    <link>https://example.com/categories/%E0%A4%85%E0%A4%AB%E0%A4%BF%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%95%E0%A5%87%E0%A4%9C/</link>
+    <description>Recent content in अफिस प्याकेज on कम्पुटर पाठशाला</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/%E0%A4%85%E0%A4%AB%E0%A4%BF%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%95%E0%A5%87%E0%A4%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Quickly Add Rows and Columns to a Table in Microsoft Word</title>
+      <link>https://example.com/p/how-to-quickly-add-rows-and-columns-to-a-table-in-microsoft-word/</link>
+      <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/p/how-to-quickly-add-rows-and-columns-to-a-table-in-microsoft-word/</guid>
+      <description>Press Tab to Add Rows The simplest way to add rows to your table is by placing the cursor in the cell at the bottom-right corner of your table and then pressing Tab on your keyboard.
+ This will add a new row. Each time you want to add a row, you can select the cell at the bottom right and press Tab again. If you select any other cell and hit Tab, then the cursor will move to the next cell.</description>
+    </item>
+    
+  </channel>
+</rss>
