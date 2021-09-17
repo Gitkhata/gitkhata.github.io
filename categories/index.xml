@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on कम्पुटर पाठशाला</title>
-    <link>https://example.com/categories/</link>
-    <description>Recent content in Categories on कम्पुटर पाठशाला</description>
+    <title>Categories on पाठशाला</title>
+    <link>https://jeevanpoudel.com.np/categories/</link>
+    <description>Recent content in Categories on पाठशाला</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jeevanpoudel.com.np/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>अफिस प्याकेज</title>
-      <link>https://example.com/categories/%E0%A4%85%E0%A4%AB%E0%A4%BF%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%95%E0%A5%87%E0%A4%9C/</link>
+      <link>https://jeevanpoudel.com.np/categories/%E0%A4%85%E0%A4%AB%E0%A4%BF%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%95%E0%A5%87%E0%A4%9C/</link>
       <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/%E0%A4%85%E0%A4%AB%E0%A4%BF%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%95%E0%A5%87%E0%A4%9C/</guid>
+      <guid>https://jeevanpoudel.com.np/categories/%E0%A4%85%E0%A4%AB%E0%A4%BF%E0%A4%B8-%E0%A4%AA%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%95%E0%A5%87%E0%A4%9C/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>https://example.com/categories/test/</link>
+      <link>https://jeevanpoudel.com.np/categories/test/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/test/</guid>
+      <guid>https://jeevanpoudel.com.np/categories/test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>测试</title>
-      <link>https://example.com/categories/%E6%B5%8B%E8%AF%95/</link>
+      <link>https://jeevanpoudel.com.np/categories/%E6%B5%8B%E8%AF%95/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/%E6%B5%8B%E8%AF%95/</guid>
+      <guid>https://jeevanpoudel.com.np/categories/%E6%B5%8B%E8%AF%95/</guid>
       <description></description>
     </item>
     
     <item>
       <title>syntax</title>
-      <link>https://example.com/categories/syntax/</link>
+      <link>https://jeevanpoudel.com.np/categories/syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/syntax/</guid>
+      <guid>https://jeevanpoudel.com.np/categories/syntax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://example.com/categories/themes/</link>
+      <link>https://jeevanpoudel.com.np/categories/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/themes/</guid>
+      <guid>https://jeevanpoudel.com.np/categories/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Test with whitespaces</title>
-      <link>https://example.com/categories/test-with-whitespaces/</link>
+      <link>https://jeevanpoudel.com.np/categories/test-with-whitespaces/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/test-with-whitespaces/</guid>
+      <guid>https://jeevanpoudel.com.np/categories/test-with-whitespaces/</guid>
       <description></description>
     </item>
     
